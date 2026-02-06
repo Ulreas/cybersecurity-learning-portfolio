@@ -22,7 +22,7 @@ Pierwsze ćwiczenia z podstaw Linuxa i pracy w terminalu.
 - sudo - wykonanie 1 komendy z uprawnieniami administratora (bezpieczniejsze niż su)
 
 ## Co było trudne
-Na początku trudno było zrozumieć, w którym miejscu systemu aktualnie jestem, zapamiętać komendy i jak je wpisywać.
+Na początku trudno było zrozumieć, w którym miejscu systemu aktualnie jestem, zapamiętać komendy i jak je wpisywać (np. bardziej złożone komendy z opcjami, jak find . -iname "a*" -a -size +10k, są trudne na początku)
 
 ## Czego się nauczyłem/am
 - jak poruszać się po systemie plików
