@@ -9,11 +9,11 @@ Podstawowe protokoły sieciowe oraz model warstwowy wykorzystywany do opisu komu
 - zapoznawałem się z modelem warstwowym sieci
 
 ## Poznane protokoły
-- "TCP" – protokół połączeniowy, zapewnia niezawodność transmisji
-- "UDP" – protokół bezpołączeniowy, szybszy, bez gwarancji dostarczenia
-- "HTTP" – protokół komunikacji w sieci WWW
-- "ARP" – mapowanie adresów IP na adresy MAC w sieci lokalnej
-- "DHCP" – automatyczne przydzielanie adresów IP urządzeniom
+- TCP – protokół połączeniowy, zapewnia niezawodność transmisji
+- UDP – protokół bezpołączeniowy, szybszy, bez gwarancji dostarczenia
+- HTTP – protokół komunikacji w sieci WWW
+- ARP – mapowanie adresów IP na adresy MAC w sieci lokalnej
+- DHCP – automatyczne przydzielanie adresów IP urządzeniom
 
 ## Model warstwowy
 - model OSI – logiczny podział komunikacji sieciowej na warstwy
