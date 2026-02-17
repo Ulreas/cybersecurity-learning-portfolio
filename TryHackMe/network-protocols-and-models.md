@@ -24,6 +24,6 @@ Podstawowe protokoły sieciowe oraz model warstwowy wykorzystywany do opisu komu
 Zrozumienie, jak protokoły działają na różnych warstwach oraz jak współpracują ze sobą podczas jednej komunikacji.
 
 ## Czego się nauczyłem
-- różnic między "TCP" i "UDP"
-- roli "ARP" i "DHCP" w sieci lokalnej
+- różnic między TCP i UDP
+- roli ARP i DHCP w sieci lokalnej
 - sensu stosowania modelu warstwowego do opisu sieci
